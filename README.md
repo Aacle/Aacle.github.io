@@ -5,7 +5,7 @@ Hii, Welcome To Site of Abhishek Meena
 # Reconnaissance
 
 - Google Dorking
->aacle.github.io/Google_Dorking
+  - https://aacle.github.io/Google_Dorking/
 
 
 # Resources
