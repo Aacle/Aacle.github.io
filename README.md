@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Reconnaissance
 
--Google Dorking
->(aacle.github.io/Google_Dorking.md)
+- Google Dorking
+(aacle.github.io/Google_Dorking.md)
 
 
 # Resources
