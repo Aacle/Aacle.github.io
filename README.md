@@ -4,10 +4,20 @@ You can use the [editor on GitHub](https://github.com/Aacle/aacle.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Reconnaissance
 
-## Xss
+-Google Dorking
+>(aacle.github.io/Google_Dorking.md)
+
+
+# Resources
+
+## OWASP TOP 10 
+### Xss
 Payloads https://aacle.github.io/xss_payload
+
+## SQLi
+
 
 ```markdown
 Syntax highlighted code block
