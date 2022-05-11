@@ -7,7 +7,9 @@ ReconEveryTHing - https://aacle.github.io/Reconnaissance/All%20ReconTools
 
 - Google Dorking
   - https://aacle.github.io/Google_Dorking/
-
+  - 
+## 100 Hacking Tools and Resources
+[Click here](https://aacle.github.io/ToolandResources)
 
 # Resources
 
